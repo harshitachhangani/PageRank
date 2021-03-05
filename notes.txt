@@ -1,0 +1,5 @@
+6 erodicité :
+
+	Exercice 4 :
+		La puissance de la matrice stochastique S^k représente la probabilité de rejoindre un noeud, depuis une source, avec un chemin de taille k
+
