@@ -3,3 +3,4 @@
 	Exercice 4 :
 		La puissance de la matrice stochastique S^k représente la probabilité de rejoindre un noeud, depuis une source, avec un chemin de taille k
 
+    The power of the stochastic matrix S^k represents the probability of joining a node, from a source, with a path of size k

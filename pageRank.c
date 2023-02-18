@@ -71,6 +71,7 @@ int v_free(VEC *v)
     {
         free(v);
     }
+    
     else
     {
         free(v->e);
